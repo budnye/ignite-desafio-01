@@ -1,4 +1,4 @@
-# RocketSeat Ignite RN First Challenge
+# Rocket Seat Ignite RN First Challenge
 
 # Content Table
 
